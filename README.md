@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @strGURU
-- 👀 I’m interested in python and C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in python and C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on all
 - 📫 How to finde me DS - guru_228
   
